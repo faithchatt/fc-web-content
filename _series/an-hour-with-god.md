@@ -1,11 +1,11 @@
 ---
 title: An hour with God
-image: 
+image: an-hour-with-god.jpg
 discord: fc
 
 when: Saturday 20:30 London
 
 promo: >
-  
+  A weekly study seeking God.
 
 ---
