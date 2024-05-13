@@ -1,7 +1,7 @@
 ---
 title: Motivational Management
 image: 
-discord: fc
+discord: none
 
 when: Friday 20:00 London
 
