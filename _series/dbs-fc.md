@@ -1,7 +1,7 @@
 ---
 title: Discussional Bible Study
 image: dbs-fc.jpg
-discord: fc
+discord: none #fc
 
 when: Tuesday 13:30 London
 
