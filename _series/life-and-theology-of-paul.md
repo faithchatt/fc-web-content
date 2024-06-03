@@ -1,5 +1,5 @@
 ---
-title: Prayers in the bible
+title: Life and Theology of Paul
 image: life-and-theology-of-paul.jpg
 discord: fc
 
