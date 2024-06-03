@@ -1,7 +1,7 @@
 ---
 title: Simple Faith
 image: simple-faith.jpg
-discord: fc
+discord: #fc
 
 when: Friday 02:00am London
 
