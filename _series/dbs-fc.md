@@ -1,7 +1,9 @@
 ---
 title: Discussional Bible Study
 image: dbs-fc.jpg
-discord: fc #none
+discord: fc
+host: Scotth
+type: Bible Study
 
 when: Tuesday 13:30 London
 

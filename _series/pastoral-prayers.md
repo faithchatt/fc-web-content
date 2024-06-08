@@ -2,6 +2,8 @@
 title: Pastoral Prayers
 image: pastoral-prayers-fc.jpg
 discord: fc
+host: RevDoc
+type: Prayer Event
 
 when: Monday 12:00 London
 

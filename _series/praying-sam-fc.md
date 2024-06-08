@@ -2,6 +2,8 @@
 title: Praying Together with Sam
 image: praying-together-fc.jpg
 discord: fc
+host: Sam
+type: Prayer Event
 
 when: "Monday & Thursday 21:30 London"
 

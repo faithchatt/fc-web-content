@@ -2,6 +2,8 @@
 title: The God Who Answers by Fire
 image: the-god-who-answers-by-fire.jpg
 discord: fc
+host: Gordons
+type: Bible Study
 
 when: Wednesday 21:00 London
 

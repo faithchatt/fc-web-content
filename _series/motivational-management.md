@@ -2,6 +2,8 @@
 title: Motivational Management
 image: 
 discord: none
+host: BlockHeadLewie
+type: Other
 
 when: Friday 20:00 London
 
