@@ -1,7 +1,9 @@
 ---
 title: Ask our Professors Anything?
 image: ask-our-prof.jpg
-discord: #fc
+discord: fc
+host: Staff
+type: Other
 
 when: Monday 18:00 London
 

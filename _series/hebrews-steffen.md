@@ -2,6 +2,8 @@
 title: Hebrews with Steffen
 image: hebrews-with-steffen-fc.jpg
 discord: fc
+host: Steffen
+type: Bible Study
 
 when: "Wednesday 00:00 London"
 
