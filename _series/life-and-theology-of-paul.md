@@ -2,7 +2,7 @@
 title: Life and Theology of Paul
 image: life-and-theology-of-paul.jpg
 discord: fc
-host: RevDoc
+host: '"Woogieman" Michael'
 type: Bible Study
 
 when: Sunday 13:00 London
