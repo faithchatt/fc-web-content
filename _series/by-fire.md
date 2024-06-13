@@ -1,7 +1,7 @@
 ---
 title: The God Who Answers by Fire
 image: the-god-who-answers-by-fire.jpg
-discord: fc
+discord: #fc
 host: Gordons
 type: Bible Study
 
