@@ -1,7 +1,7 @@
 ---
 title: Simple Faith
 image: simple-faith.jpg
-discord: fc
+discord: #fc
 host: RevDoc
 type: Bible Study
 
