@@ -1,5 +1,5 @@
 ---
-title: Life and Theology of Paul
+title: The Life and Theology of Paul
 image: life-and-theology-of-paul.jpg
 discord: fc
 host: '"Woogieman" Michael'
