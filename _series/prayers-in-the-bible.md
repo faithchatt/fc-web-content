@@ -5,6 +5,8 @@ discord: fc
 host: RevDoc
 type: Bible Study
 
+state: finished
+
 when: Friday 02:00am London
 
 promo: >
